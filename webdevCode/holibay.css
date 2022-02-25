@@ -1,0 +1,28 @@
+#site_title{
+font-size: 33px;
+}
+a.top_bar {
+    color: #741c7c;
+    font-weight: 500;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 20px;
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+.top_search{
+    color: #741c7c;
+    border-style: solid;
+    border-width: thin;
+    border-color: #741c7c;
+    display: inline-block;
+}
+.top_images{
+	width:100px;
+	height:100px;
+}
